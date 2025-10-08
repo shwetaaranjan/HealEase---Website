@@ -1,4 +1,4 @@
-### HealEase - Doctor Booking Platform
+# HealEase - Doctor Booking Platform
 
 HealEase is a full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It makes healthcare access easier by helping patients book doctor appointments and manage consultations seamlessly. The app provides dedicated dashboards for Patients, Doctors, and Admins.
 
