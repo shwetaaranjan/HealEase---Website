@@ -72,7 +72,7 @@ Manage doctors, patients, and appointments efficiently.
 
 ## Project Setup
 # Clone repository
-git clone https://github.com/your-username/healease.git
+git clone https://github.com/shwetaaranjan/healease.git
 cd healease
 
 # Install dependencies
