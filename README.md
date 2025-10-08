@@ -1,8 +1,8 @@
-HealEase - Doctor Booking Platform
+### HealEase - Doctor Booking Platform
 
 HealEase is a full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It makes healthcare access easier by helping patients book doctor appointments and manage consultations seamlessly. The app provides dedicated dashboards for Patients, Doctors, and Admins.
 
-🛠️ Tech Stack
+## Tech Stack
 
 Frontend: React.js
 
@@ -12,8 +12,8 @@ Database: MongoDB
 
 Authentication: JSON Web Token (JWT)
 
-🔑 Key Features
-👩‍⚕️ Patient
+## Key Features
+# Patient
 
 Sign up, log in, and book doctor appointments.
 
@@ -21,7 +21,7 @@ View, cancel, or reschedule appointments.
 
 Manage personal profile (name, email, address, gender, birthday, profile picture).
 
-🩺 Doctor
+# Doctor
 
 Manage appointments and availability.
 
@@ -29,7 +29,7 @@ Dashboard with total patients, appointments, and earnings.
 
 Update profile details (description, fees, address, and status).
 
-👨‍💼 Admin
+# Admin
 
 Add and manage doctor profiles.
 
@@ -37,7 +37,7 @@ View total doctors, patients, and appointments.
 
 Cancel or mark appointments as completed.
 
-🏠 Pages Overview
+# Pages Overview
 Home Page
 
 Search doctors by specialty.
@@ -70,7 +70,7 @@ Admin & Doctor Dashboards
 
 Manage doctors, patients, and appointments efficiently.
 
-🌐 Project Setup
+## Project Setup
 # Clone repository
 git clone https://github.com/your-username/healease.git
 cd healease
@@ -91,7 +91,7 @@ Run the project:
 
 npm run dev
 
-📁 Folder Structure
+## Folder Structure
 healease/
 ├── client/          # Frontend (React)
 ├── server/          # Backend (Express)
